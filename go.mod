@@ -1,4 +1,4 @@
-module crypto
+module github.com/mhthrh/crypto
 
 go 1.24.2
 
